@@ -1,0 +1,13 @@
+{
+  "name": "Swisscom InCharge Launcher",
+  "version": "1.0",
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ],
+  "browser_action": {
+      "default_title": "Swisscom InCharge Launcher",
+      "default_icon": "icon.png",
+      "popup": "launcher.html",
+	  "chrome_url": "http://nmincharge.corproot.net"
+  }
+}
