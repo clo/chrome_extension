@@ -1,13 +1,13 @@
 {
-  "name": "Swisscom InCharge Launcher",
-  "version": "1.0",
+  "name": "Swisscom IONIX Launcher",
+  "version": "1.1",
   "permissions": [
     "tabs", "http://*/*", "https://*/*"
   ],
   "browser_action": {
-      "default_title": "Swisscom InCharge Launcher",
+      "default_title": "Swisscom IONIX Launcher",
       "default_icon": "icon.png",
       "popup": "launcher.html",
-	  "chrome_url": "http://nmincharge-standby.corproot.net"
+	  "chrome_url": "http://nfam.corproot.net"
   }
 }
